@@ -7,7 +7,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=p3nj&show_icons=true&theme=gruvbox" />
 A self-taught full-stack engineer, been positions on UI/UX, PG, RD, PM, DevOps.
   
-I don't use Github as a place share my code, I use it to follow up open-source projects.
+I don't use Github as a place share my code, instead using it to follow up open-source projects.
 
 Decided to resign my job after burn out and start following what I really love. Hence, you probably will see me around more often.
 
