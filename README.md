@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently studying IT/CS major.
-- 🌱 I’m currently learning how to react 101
+- 🌱 I’m currently learning how to golang 101
 - 📫 If you working on something interesting and needed some help, please drop me an [email](mailto://p3nj.tutanota.io) for resume or further details.
 - ⚡ Fun fact: I use Arch.
 <hr>
