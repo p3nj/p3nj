@@ -5,7 +5,9 @@
 - ⚡ Fun fact: I use Arch.
 <hr>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=p3nj&show_icons=true&theme=gruvbox" />
-A self-taught full-stack engineer, been positions on UI/UX, PG, RD, PM, DevOps.
+A self-taught full-stack engineer, been positions on UI/UX, PG, RD, PM aaand DevOps.
+
+Experienced with **C#, Python, Golang, TypeScript(Ng), Docker, K8s.**
   
 I don't use Github as a place share my code, instead using it to follow up open-source projects.
 
