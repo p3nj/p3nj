@@ -11,7 +11,7 @@ Experienced with **C#, Python, Golang, TypeScript(Ng), Docker, K8s.**
   
 I don't use Github as a place share my code, instead using it to follow up open-source projects.
 
-Decided to resign my job after burn out and start following what I really love. Hence, you probably will see me around more often.
+Decided to resign my job after burn out and start following what I really love. Thus, you probably will see me around more often.
 
 
 
