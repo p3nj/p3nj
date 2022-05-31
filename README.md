@@ -7,7 +7,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=p3nj&show_icons=true&theme=gruvbox" />
 A self-taught full-stack engineer, been positions on UI/UX, PG, RD, PM aaand DevOps.
 
-Experienced with **C#, Python, Golang, TypeScript(Ng), Docker, K8s.**
+Experienced with **C#, Python, Golang, TypeScript(Ng), Docker, K8s, Azure aaand AWS**
   
 I don't use Github as a place share my code, instead using it to follow up open-source projects.
 
