@@ -1,17 +1,17 @@
 ### Hi there 👋
-- 🔭 I’m currently studying master of IT/CS.
+- 🔭 I’m currently studying master of IT/CyberSecurity.
 - 🌱 I’m currently learning how to rust 101
-- 📫 If you working on something interesting and needed some help, please drop me an [email](mailto://p3nj.tutanota.io) for resume or further details.
+- 📫 If you are working on something interesting and need some help, please drop me an [email](mailto://p3nj.tutanota.io) for a resume or further details.
 - ⚡ Fun fact: I use Arch.
 <hr>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=p3nj&show_icons=true&theme=gruvbox" />
-A self-taught full-stack engineer, been positions on UI/UX, PG, RD, PM aaand DevOps.
+A self-taught full-stack engineer, been in positions on UI/UX, PG, RD, PM aaand DevOps.
 
 Experienced with **C#, Python, Golang, TypeScript, Docker, K8s, Azure aaand AWS**
   
-I don't use Github as a place share my code, instead using it to follow up open-source projects.
+I don't use GitHub as a place to share my code, instead using it to follow up on open-source projects.
 
-Decided to resign my job after burn out and start following what I really love. Hence, you probably will see me around more often.
+I decided to resign my job after burnout and start following what I really love. Hence, you probably will see me around more often.
 
 
 
