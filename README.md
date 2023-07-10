@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I use Arch.
 <hr>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=p3nj&show_icons=true&theme=gruvbox" />
-A self-taught full-stack engineer, been in positions on UI/UX, PG, RD, PM aaand DevOps.
+A self-taught full-stack engineer with 5+ years of working experience, been in positions on UI/UX, PG, RD, QA, PM aaand DevOps.
 
 Experienced with **C#, Python, Golang, TypeScript, Docker, K8s, Azure aaand AWS**
   
