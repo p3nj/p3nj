@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently studying master of IT/CyberSecurity.
-- 🌱 I’m currently learning how to rust 101
+- 🔭 Master of Cybersecurity
 - 📫 If you are working on something interesting and need some help, please drop me an [email](mailto://p3nj@tutanota.io) for a resume or further details.
-- ⚡ Fun fact: I use Arch.
+- ⚡ Fun fact: ~I use Arch~.
 <hr>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=p3nj&show_icons=true&theme=gruvbox" />
 A self-taught full-stack engineer with 5+ years of working experience, been in positions on UI/UX, PG, RD, QA, PM aaand DevOps.
