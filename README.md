@@ -1,4 +1,4 @@
-### Hi there 👋
+### G'day mate 👋
 - 🔭 Master of Cybersecurity
 - 📫 If you are working on something interesting and need some help, please drop me an [email](mailto://p3nj@tutanota.io) for a resume or further details.
 - ⚡ Fun fact: I use ~Arch~ ~Silverblue~ ~NixOS~ Fedora.
