@@ -4,13 +4,13 @@
 - ⚡ Fun fact: I use ~Puppy~ ~Debian~ ~Arch~ ~Silverblue~ ~NixOS~ Fedora.
 <hr>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=p3nj&show_icons=true&theme=gruvbox" />
-A self-taught full-stack engineer with 5+ years of working experience, been in positions on UI/UX, PG, RD, QA, PM aaand DevOps.
+A self-taught full-stack engineer with 5+ years of working experience, having worked in positions on UI/UX, PG, RD, QA, PM, and DevOps.
 
 Experienced with **C, C#, Python, Golang, TypeScript, Rust, Docker, K8s, Azure aaand AWS**
   
-I don't use GitHub as a place to share my code, instead using it to follow up on open-source projects.
+I don't use GitHub to share my code; instead, I use it to follow up on open-source projects.
 
-I decided to resign my job after burnout and start following what I really love. Hence, you probably will see me around more often.
+After burnout, I decided to resign from my job and start following what I really love. Hence, you will probably see me around more often.
 
 
 
